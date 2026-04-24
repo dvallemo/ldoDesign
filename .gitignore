@@ -1,0 +1,14 @@
+# Altium history and logs
+History/
+__Previews/
+Project Logs for*/
+
+# Altium output files
+Project Outputs for*/
+
+# Altium lock files
+*.lck
+
+# Windows junk
+Thumbs.db
+Desktop.ini
