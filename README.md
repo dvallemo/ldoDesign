@@ -1,6 +1,6 @@
 # +5V to +3.3V LDO Voltage Regulator
 
-A compact PCB that converts +5V input to a clean +3.3V output using the MIC5317 LDO regulator. Designed in Altium Designer as a first PCB project.
+A compact PCB that converts +5V input to a clean +3.3V output using the MIC5317 LDO regulator. Designed in Altium Designer as a first PCB project in a while.
 
 ## About
 This board takes a 5V supply and steps it down to 3.3V for powering microcontrollers, sensors, and other 3.3V logic devices. The design is minimal, compact, and uses JST-GH connectors for easy integration into larger systems.
